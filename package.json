@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenhoangtuan12102003/nodejs_blog.git"
+  },
+  "keywords": [
+    "tuan",
+    "blog",
+    "tuan",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "hoangtuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenhoangtuan12102003/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/nguyenhoangtuan12102003/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
